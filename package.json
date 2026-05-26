@@ -7,7 +7,7 @@
 		"start": "node.js"
 	},
 	"author": "Usman",
-	"License": MIT"",
+	"License": "MIT",
 	"dependencies": {
 		"express": "^4.17.1"
 	}
